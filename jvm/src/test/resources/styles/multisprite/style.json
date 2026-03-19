@@ -7,6 +7,8 @@
   "name": "test-sprites",
   "sources": {
     "test_label": {
+      "minzoom": 0,
+      "maxzoom": 0,
       "type": "geojson",
       "data": {
         "type": "FeatureCollection",
